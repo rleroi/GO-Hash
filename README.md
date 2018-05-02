@@ -2,7 +2,7 @@
 A custom hashing algorithm made for fun
 
 # Usage
-``hash filename [hash-size in bytes]``
+`hash filename [hash-size in bytes]`  
 `hash fileToHash.dat 32` will return a 32-byte hexadecimal hash for fileToHash.dat
 
 # Disclaimer

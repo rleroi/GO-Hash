@@ -1,5 +1,5 @@
 # GO-Hash
-A custom hashing algorithm made for fun
+A custom hashing algorithm made for fun with a variable hash length. The algorithm is inspired by Fibonacci sequences.
 
 # Usage
 `hash filename [hash-size in bytes]`  
